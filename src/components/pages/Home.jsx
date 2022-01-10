@@ -124,7 +124,7 @@ export default function Home() {
           <Grid container justifyContent="space-between" alignItems="center">
             <Grid item xs={12} xl={4} md={4} sm={4}>
               <Typography variant="h6" color="inherit">
-                Search Content
+                Search Content iTunes
               </Typography>
             </Grid>
             <Grid item xs={12} xl={3} md={4} sm={4}>
